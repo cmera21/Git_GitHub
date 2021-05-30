@@ -15,5 +15,5 @@ Comenzando con GIT.
 git show agregado
 
  commit  de prueba
-
  commit 2
+ commit3
