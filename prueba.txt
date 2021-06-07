@@ -23,7 +23,3 @@ git show agregado
  PROBANDO RAMAS CAMBIANDO NOMVRE
 
  gaaaa2
-
-
-PROBANDO SSH 
-sin contraseña
