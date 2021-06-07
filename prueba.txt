@@ -25,6 +25,6 @@ git show agregado
  gaaaa2
 
 PROBANDO SSH 
-sin contraseña
+sin contraseña 2
 
 GAAA
